@@ -1,41 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Qi Zhang
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Qi
+last_name: Zhang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assosiate Professor of Theoretical Physics
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Jiangsu University of Science and Technology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include statistical physics, complex networks and information fusion.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Statistical Physics
+  - Complex Networks 
+  - Information Fusion
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Theoretical Physics
+      institution: Leiden University
+      year: 2021
+    - course: MEng in Computer Science
+      institution: Southwest University, China
+      year: 2017
+    - course: BSc in Automachine
+      institution: Southwest University, China
+      year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
